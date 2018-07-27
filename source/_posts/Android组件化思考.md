@@ -2,6 +2,7 @@
 title: Android组件化思考
 date: 2018-07-26 11:03:35
 tags: [Android,组件化]
+keywords: Android,组件化
 ---
 ## 组件化的目标
 - 代码解耦

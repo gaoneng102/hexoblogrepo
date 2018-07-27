@@ -5,7 +5,8 @@
 # Site
 title: Mike's Notes
 subtitle: 保持自己的好奇心
-description: 移动端个人技术总结和分享
+description: Android,ios,Linux 个人技术总结和分享
+keywords: Android,ios,Linux,kotlin,swift
 author: gaoneng102
 language: zh-Hans
 timezone:
@@ -87,6 +88,10 @@ leancloud_counter_security:
   app_key: IpBEephLzVScA4fjW8NPYf63
   username: gaoneng102
   password:
+
+# 自动生成sitemap
+sitemap:
+path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
+Allow: /home/
 Allow: /archives/
-Allow: /categories/
 Allow: /tags/
 Allow: /about/
 Disallow: /vendors/
@@ -10,3 +10,5 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Sitemap: http://gaoneng.work/sitemap.xml
+Sitemap: http://gaoneng.work/baidusitemap.xml

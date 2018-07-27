@@ -1,8 +1,9 @@
 ---
 title: android内存泄露常见情景以及解决方案
-date: 2018-07-25 19:42:19
 tags: Android
-keywords: Android,内存泄露
+keywords: 'Android,内存泄露'
+abbrlink: 32703
+date: 2018-07-25 19:42:19
 ---
 ## 内存相关的概念
 ### Java内存分配

@@ -1,8 +1,12 @@
 ---
 title: 在Ubuntu搭建安卓开发环境
+tags:
+  - Ubuntu
+  - Linux
+  - Android
+keywords: 'Ubuntu,Linux,Android,安卓,开发环境'
+abbrlink: 47363
 date: 2018-07-26 09:41:17
-tags: [Ubuntu,Linux,Android]
-keywords: Ubuntu,Linux,Android,安卓,开发环境
 ---
 ![Ubuntu && Android](http://pcga627s7.bkt.clouddn.com/ubuntuforandroid.png)
 ## 安装ubuntu（基于16.04）

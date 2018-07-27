@@ -6,9 +6,8 @@
 title: Mike's Notes
 subtitle: 保持自己的好奇心
 description: 移动端个人技术总结和分享
-keywords: Android,ios,Linux
 author: gaoneng102
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -82,9 +81,18 @@ search:
   format: html
   limit: 10000
 
+leancloud_counter_security:
+  enable_sync: true
+  app_id: qVxxOKR0gAUPqq4CUyIC2QbY-gzGzoHsz
+  app_key: IpBEephLzVScA4fjW8NPYf63
+  username: gaoneng102
+  password:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:gaoneng102/gaoneng102.github.io.git
-  branch: master
+  - type: git
+    repo: git@github.com:gaoneng102/gaoneng102.github.io.git
+    branch: master
+  # other deployer
+  - type: leancloud_counter_security_sync

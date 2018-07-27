@@ -11,6 +11,7 @@ http://www.linuxdiyf.com/linux/20012.html
 * 四个分区即可/boot、/、/home、swap。/home尽量给大点，因为平时使用的主要目录还是这里
 * 最后一步安装启动程序选择/boot，这样就不会覆盖其他系统的启动
 * 建议在有线网络下安装，因为wifi可能无法使用，导致安装之后某些图形界面的组件没有正常下载安装导致 “The system is running in low-graphics mode”异常<br>
+<!-- more -->
 https://askubuntu.com/questions/141606/how-to-fix-the-system-is-running-in-low-graphics-mode-error
 
 ### 优化

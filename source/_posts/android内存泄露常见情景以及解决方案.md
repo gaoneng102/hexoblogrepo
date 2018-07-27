@@ -26,7 +26,7 @@ tags: Android
 
 ### Android内存泄露
   *我们常说的内存泄漏是指new出来的Object无法被GC回收，即为强引用。通俗来讲，就是对象已不再使用，但是依然持有对它的强引用*
-
+<!-- more -->
 ### 检测工具[leakcanary](https://github.com/square/leakcanary)
 这里只是单纯用来检测内存泄漏，所以就采用最简单，最直接的工具，其他更强大的检测工具和方法就不在此提及
   ```java
